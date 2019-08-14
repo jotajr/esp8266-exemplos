@@ -4,7 +4,7 @@ Para utilizarmos o ESP8266 na Arduino IDE, deveremos adicionar a placa personali
 
 URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-Após a adição ir no menu ferramentas e no menu gerenciar placas dentro do item placas, no gerenciador procurar por **esp8266** by **ESP8266 Community**. Após o download a placa está pronta para o uso.
+Após a adição ir no menu ferramentas e no menu gerenciar placas dentro do item placas, no gerenciador procurar por **esp8266** by **ESP8266 Community**. Após o download a placa está pronta para o uso, basta selecionar a placa **NodeMCU 1.0 (ESP-12E Module)**.
 
 ## Pinagem do ESP8266
 
