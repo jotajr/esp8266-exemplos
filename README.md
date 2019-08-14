@@ -29,7 +29,7 @@ De:
 
 ```c
 #define HARDWARE_TYPE MD_MAX72XX::PAROLA_HW
-#define MAX_DEVICES 4
+#define MAX_DEVICES 8
 ```
 
 Para:
